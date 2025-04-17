@@ -34,7 +34,7 @@ public class A {
 					}
 			}
 			System.out.println(sb);
-			System.out.println("Swamy Vadde");
+			
 
 		
 		
